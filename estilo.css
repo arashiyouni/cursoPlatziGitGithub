@@ -1,6 +1,21 @@
 body{
 
-    color: aquamarine;
+    color: royalblue;
     text-align: center;
     font-family: "Arial";
+    font-size: 25px;
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    width: 700;
+    padding: 1cm;
+    text-align: left;
+    border: 1px solid olivedrab;
+    margin: 0 auto;
+}
+
+#container h1{
+    font-size: 20px;
 }
