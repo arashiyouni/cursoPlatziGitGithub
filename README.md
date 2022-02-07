@@ -8,7 +8,7 @@ Sí quieres probar tus habilidades aprendidas en el curso (o simplemente quieres
 Se hace con la intención de poner en práctica la configuraración de múltiples colaboradores en un repositorio de GitHub, también colabore en tu repositorio con gusto escribe en el apartado de "Discussion" para verlo o en mi [twitter](http://twitter.com/cyberanhg "twitter"). 
 Tanto como tu y yo practicarimos ambas partes 😁
 
-****¿Qué te parece la idea? 👀 ****
+**¿Qué te parece la idea?** 👀 
 
 ------------
 
