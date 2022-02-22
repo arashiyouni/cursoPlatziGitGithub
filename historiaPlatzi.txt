@@ -1,7 +1,7 @@
 Prueba con git en linux:)
 
 Tengo 19 
-Ola
+Hola
 estatura: 1.60
 Hoy 26/01/2022
 
